@@ -1,0 +1,41 @@
+I"�<h2 id="why-you-should-choose-turtletasker-to-find-service-professionals">Why You Should Choose TurtleTasker To Find Service Professionals?</h2>
+
+<p>One of the frustrating challenges of moving to a new neighborhood is finding a tried and tested service professional—someone, who you could trust, with all your wits. In the past, you must have had a directory with the contacts of all the good handymen, plumbers, and electricians in your area. But now that you have moved, you will have to go over the tiring process of finding the right service provider all over again. You may notice a leaky faucet, a broken doorknob, or a loose set of wiring as soon as you enter your new home, but unfortunately! You don’t have a trusted service professional to fix all that.</p>
+
+<p>If you are not sure how to find great service professionals in your area, use TurtleTasker—an online directory that will introduce you to a number of local service providers. Here are some reasons why you should choose TurtleTasker to find these local pros.</p>
+
+<h3 id="-cheaper-prices">☆ Cheaper Prices</h3>
+
+<p>TurtleTasker is a big marketplace where you can find a variety of vendors such as plumbers, electricians, movers, cleaners, handymen, and more. It’s a fully-functional directory where you can access hundreds of local service professionals at once and compare their service prices.</p>
+
+<p>At TurtleTasker, you can hire service professionals a lot cheaper than other third-party aggregators. Chances are, you will get your service professional 40-50 percent cheaper than other marketplaces.</p>
+
+<h3 id="-you-have-freedom-to-choose-service-provider">☆ You Have Freedom to Choose Service Provider</h3>
+
+<p>Every vendor or service provider on TurtleTasker has average ratings and reviews enlisted on their profiles. This helps you know the past experiences of other users with a particular vendor and ultimately helps you decide better. Before going with any service provider, you can check reviews and ratings on their profile. This will give you a better insight into their performance and reputation.</p>
+
+<h3 id="-custom-service-quote">☆ Custom Service Quote</h3>
+
+<p>Vendors on TurtleTasker can give you a custom service quote upon request. You can chat with service professionals in real-time and discuss every detail about the project to get a custom service quote with the best possible price. You can also send your request to multiple professionals at once, briefly describing your project.</p>
+
+<hr />
+
+<h4 id="some-t-sql-code">Some T-SQL Code</h4>
+
+<pre><code class="language-tsql">SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
+    , REVERSE('abc')
+FROM dbo.SomeTable s
+    CROSS JOIN dbo.OtherTable o;
+</code></pre>
+
+<h4 id="some-powershell-code">Some PowerShell Code</h4>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Write-Host</span><span class="w"> </span><span class="s2">"This is a powershell Code block"</span><span class="p">;</span><span class="w">
+
+</span><span class="c"># There are many other languages you can use, but the style has to be loaded first</span><span class="w">
+
+</span><span class="kr">ForEach</span><span class="w"> </span><span class="p">(</span><span class="nv">$thing</span><span class="w"> </span><span class="kr">in</span><span class="w"> </span><span class="nv">$things</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="n">Write-Output</span><span class="w"> </span><span class="s2">"It highlights it using the GitHub style"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+:ET

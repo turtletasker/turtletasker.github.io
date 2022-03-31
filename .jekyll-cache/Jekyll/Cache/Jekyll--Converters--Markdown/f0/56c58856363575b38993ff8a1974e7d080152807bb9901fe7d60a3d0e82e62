@@ -1,0 +1,31 @@
+I"<h2 id="blog-post-title-from-first-header">Blog Post Title From First Header</h2>
+
+<p>Due to a plugin called <code class="language-plaintext highlighter-rouge">jekyll-titles-from-headings</code> which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.</p>
+
+<p>If the file does not start with a header, then the post title will be derived from the filename.</p>
+
+<p>This is a sample blog post. You can talk about all sorts of fun things here.</p>
+
+<hr />
+
+<h3 id="this-is-a-header">This is a header</h3>
+
+<h4 id="some-t-sql-code">Some T-SQL Code</h4>
+
+<pre><code class="language-tsql">SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
+    , REVERSE('abc')
+FROM dbo.SomeTable s
+    CROSS JOIN dbo.OtherTable o;
+</code></pre>
+
+<h4 id="some-powershell-code">Some PowerShell Code</h4>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Write-Host</span><span class="w"> </span><span class="s2">"This is a powershell Code block"</span><span class="p">;</span><span class="w">
+
+</span><span class="c"># There are many other languages you can use, but the style has to be loaded first</span><span class="w">
+
+</span><span class="kr">ForEach</span><span class="w"> </span><span class="p">(</span><span class="nv">$thing</span><span class="w"> </span><span class="kr">in</span><span class="w"> </span><span class="nv">$things</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="n">Write-Output</span><span class="w"> </span><span class="s2">"It highlights it using the GitHub style"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+:ET
